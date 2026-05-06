@@ -1,0 +1,9 @@
+# Ignorar contraseñas
+.env
+
+# Ignorar la caja virtual y archivos temporales
+venv/
+__pycache__/
+
+# Ignorar la carpeta de imágenes QR generadas localmente
+qrs/
